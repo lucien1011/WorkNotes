@@ -1,0 +1,11 @@
+
+Drell-Yan cross section at 13 TeV:
+
+'DYJetsToLL_M50_HT100to200': 194.3,
+'DYJetsToLL_M50_HT200to400': 52.24,
+'DYJetsToLL_M50_HT400to600': 6.546,
+'DYJetsToLL_M50_HT600toInf': 2.179,
+
+~ HT100ToInf: 250pb, ~ 500000 events with 2/fb of data
+
+What about inclusive cross section?
