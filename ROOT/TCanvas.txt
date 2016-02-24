@@ -1,0 +1,12 @@
+
+// xz                                                                                 
+ canvas->SetTheta(0);                                                              
+ canvas->SetPhi(0);                                                                
+
+  // yz                                                                                 
+  canvas->SetTheta(0);
+  canvas->SetPhi(-90);
+
+  // xy                                                                                 
+  canvas->SetTheta(90);                                                            
+  canvas->SetPhi(0); 
