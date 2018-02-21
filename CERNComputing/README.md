@@ -3,4 +3,4 @@
 
 ### Collection of xrootd path
 
-root://cms-xrd-global.cern.ch//store/<PATH>
+root://cms-xrd-global.cern.ch//store/PATH_TO_FILE
