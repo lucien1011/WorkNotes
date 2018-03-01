@@ -13,3 +13,8 @@ To start, source crab:
 ```
 source /cvmfs/cms.cern.ch/crab3/crab.sh
 ```
+
+### Update grid certificate
+```
+voms-proxy-init --voms cms --valid 168:00
+```
