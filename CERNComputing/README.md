@@ -4,8 +4,9 @@
 [scram](https://twiki.cern.ch/twiki/bin/view/CMSPublic/SWGuideScram)
 
 ### Collection of xrootd path
-
+```
 root://cms-xrd-global.cern.ch//store/PATH_TO_FILE
+```
 
 ### crab
 
