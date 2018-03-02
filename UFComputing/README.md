@@ -27,6 +27,13 @@ uberftp cmsio.rc.ufl.edu "ls /cms/data/store/user/klo/"
 uberftp cmsio.rc.ufl.edu "help" # To see available commands
 ```
 
+#### Prefix path to access Tier2
+```
+    To access CMS data from IHEPA,
+    please use root://cmsio2.rc.ufl.edu/cms/data/store/...
+               gsiftp://cmsio.rc.ufl.edu/cms/data/store/...
+```
+
 
 
 
