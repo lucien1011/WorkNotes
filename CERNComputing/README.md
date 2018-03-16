@@ -8,6 +8,11 @@
 root://cms-xrd-global.cern.ch//store/PATH_TO_FILE
 ```
 
+### Check xrd access rate
+```
+xrdcp -d 1 -f root://cms-xrd-global.cern.ch//store/PATH_TO_FILE /dev/null
+```
+
 ### crab
 
 To start, source crab:
