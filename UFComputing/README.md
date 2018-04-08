@@ -18,6 +18,9 @@ ssh -X -Y lucien@newberry.ihepa.ufl.edu
 ```
 gfal-copy gsiftp://cmsio.rc.ufl.edu//cms/data/store/user/klo/<PATH_TO_FILE> file://<PATH_TO_COPY_TO>
 tar xzvf heppyOutput_3.tgz
+
+# Copy content in a folder to a existing folder on UF Tier 2
+gfal-copy -r <PATH_TO_FOLDER> gsiftp://cmsio.rc.ufl.edu//cms/data/store/user/klo/<PATH_TO_FOLDER>
 ```
 --------------
 
