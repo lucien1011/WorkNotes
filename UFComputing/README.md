@@ -37,6 +37,9 @@ uberftp cmsio.rc.ufl.edu "help" # To see available commands
                gsiftp://cmsio.rc.ufl.edu/cms/data/store/...
 ```
 
-
-
+#### Change password
+In command line, do:
+```
+yppasswd
+```
 
