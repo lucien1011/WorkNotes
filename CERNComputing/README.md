@@ -24,3 +24,8 @@ source /cvmfs/cms.cern.ch/crab3/crab.sh
 ```
 voms-proxy-init --voms cms --valid 168:00
 ```
+
+### Accessing PSI T3
+```
+gfal-ls -l root://t3se01.psi.ch:1094//store/user/cheidegg/sea/12/2017-02-24-11-30-00_2lss_bkg/
+```
